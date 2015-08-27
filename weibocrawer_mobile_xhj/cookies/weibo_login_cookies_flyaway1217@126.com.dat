@@ -1,0 +1,22 @@
+#LWP-Cookies-2.0
+Set-Cookie3: ALC="ac%3D2%26bt%3D1440505683%26cv%3D5.0%26et%3D1472041683%26uid%3D3078379144%26vf%3D0%26vt%3D0%26es%3D2eb5064242102755dc41764f0591e3eb"; path="/"; domain=".login.sina.com.cn"; path_spec; expires="2016-08-24 12:28:03Z"; httponly=None; version=0
+Set-Cookie3: LT=1440505683; path="/"; domain=".login.sina.com.cn"; path_spec; discard; version=0
+Set-Cookie3: tgc="TGT-MzA3ODM3OTE0NA==-1440505683-xd-2FE053A3F65BD1C4347530C3E1808D9A"; path="/"; domain=".login.sina.com.cn"; path_spec; discard; Httponly=None; version=0
+Set-Cookie3: SRF=1440505683; path="/"; domain=".passport.weibo.com"; path_spec; domain_dot; expires="2025-08-22 12:28:03Z"; version=0
+Set-Cookie3: SRT="E.vAfqJDVtJqVuJOArv!sYAvmBvXvCvXMP3EyOvnEABvzvvv4m-bwKdXRmvvvGbnVmPW-nrnXFvRvvvX5QCXzvBvrBJAtBvA0BvMmCvvzNvAz7*B.vAflW-P9Rc0lR-ykADvnJqiQVbiRVPBtS!r3JZPQVqbgVdWiMZ4siOzu4DbmKPWfJ-YEPOSEMmEpOZi!NOEO5dHdPe9wi49ndDPIJeA7"; path="/"; domain=".passport.weibo.com"; path_spec; domain_dot; expires="2025-08-22 12:28:03Z"; httponly=None; version=0
+Set-Cookie3: ALF=1472041683; path="/"; domain=".sina.com.cn"; path_spec; domain_dot; expires="2016-08-24 12:28:03Z"; version=0
+Set-Cookie3: SUB="_2A2542C8DDeTxGeVO7FoS9yfNzziIHXVbrAfLrDV_PUNbuNAPLWXgkW8_RiqVhCaH8Zvr0a2L25RhWxjLKw.."; path="/"; domain=".sina.com.cn"; path_spec; domain_dot; discard; httponly=None; version=0
+Set-Cookie3: SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9Wh3hEU6EDArN3dI1SybVVzz; path="/"; domain=".sina.com.cn"; path_spec; domain_dot; expires="2016-08-24 12:28:03Z"; version=0
+Set-Cookie3: SUE="es%3Dee10d329761232f828ac4105a8c76eb6%26ev%3Dv1%26es2%3D2d4fe7acfdc052de3d261cde4a25306b%26rs0%3D1lS7daTdfyKBNUWNxwjeoWupiCaS8T4ecm5SuiJa5%252BtaeBRRXvGbELrpVw0u52Gn6%252BmBHyFdi6Bi4kCaKJqsZp1oR0OX9pXKjmOMI%252Fy95Mw%252B5fzPspNkbjnCifz5aGot%252F8Z6WwQCDOhMsKjSiNQOKFGitOZFAq7ECDBlt3YhNDs%253D%26rv%3D0"; path="/"; domain=".sina.com.cn"; path_spec; domain_dot; discard; Httponly=None; version=0
+Set-Cookie3: SUP="cv%3D1%26bt%3D1440505683%26et%3D1440592083%26d%3D40c3%26i%3Deb28%26us%3D1%26vf%3D0%26vt%3D0%26ac%3D2%26st%3D0%26lt%3D1%26uid%3D3078379144%26user%3Dflyaway1217%2540126.com%26ag%3D4%26name%3Dflyaway1217%2540126.com%26nick%3Dflyaway%26sex%3D%26ps%3D0%26email%3D%26dob%3D%26ln%3Dflyaway1217%2540126.com%26os%3D%26fmp%3D%26lcp%3D2014-05-10%252011%253A57%253A00"; path="/"; domain=".sina.com.cn"; path_spec; domain_dot; discard; version=0
+Set-Cookie3: SUS="SID-3078379144-1440505683-XD-n8m3z-ad105adffe86c60f53264ee9c7c0eb28"; path="/"; domain=".sina.com.cn"; path_spec; domain_dot; discard; httponly=None; version=0
+Set-Cookie3: sso_info=v02m6alo5qztaabh6WhnbaFuYmnlamZg7SzjIOcuIyznLmMk5C0; path="/"; domain=".sina.com.cn"; path_spec; domain_dot; expires="2016-08-25 12:28:03Z"; version=0
+Set-Cookie3: ALF=1472041683; path="/"; domain=".weibo.com"; path_spec; domain_dot; expires="2016-08-24 12:28:03Z"; version=0
+Set-Cookie3: SSOLoginState=1440505683; path="/"; domain=".weibo.com"; path_spec; domain_dot; discard; version=0
+Set-Cookie3: SUB="_2A2542C8DDeTxGeVO7FoS9yfNzziIHXVbrAfLrDV8PUNbuNBeLW31kW-L_-YWQYcPEUGVXarwELLxsrlvXw.."; path="/"; domain=".weibo.com"; path_spec; domain_dot; discard; httponly=None; version=0
+Set-Cookie3: SUBP=0033WrSXqPxfM725Ws9jqgMF55529P9D9Wh3hEU6EDArN3dI1SybVVzz5JpX5K2t; path="/"; domain=".weibo.com"; path_spec; domain_dot; expires="2016-08-24 12:28:03Z"; version=0
+Set-Cookie3: SUE="es%3Deb752efe806bf2131fed0236cc2868db%26ev%3Dv1%26es2%3Df92911d895687581abf8260f76c2ec6d%26rs0%3Dlhdzt0%252BltddwHTqXm9V0gCtZqh8sbCgeY769LHeTMGqJ0u%252B5spx6pGSc4I7dr%252Busom3rcPbWY7MFFuDDwqREzpW%252FferjHgHQ1jVti1h%252FAHhNQ9dqbi9T3Uhf%252BBBCTqg%252FO2qPBu19uHnmnQLeFoRN%252F3qFCUjXc4vonk%252Fh0sayWj4%253D%26rv%3D0"; path="/"; domain=".weibo.com"; path_spec; domain_dot; discard; Httponly=None; version=0
+Set-Cookie3: SUHB=0btsBpZWSJPzST; path="/"; domain=".weibo.com"; path_spec; domain_dot; expires="2016-08-24 12:28:03Z"; version=0
+Set-Cookie3: SUP="cv%3D1%26bt%3D1440505683%26et%3D1440592083%26d%3Dc909%26i%3D0e5a%26us%3D1%26vf%3D0%26vt%3D0%26ac%3D2%26st%3D0%26uid%3D3078379144%26name%3Dflyaway1217%2540126.com%26nick%3Dflyaway%26fmp%3D%26lcp%3D2014-05-10%252011%253A57%253A00"; path="/"; domain=".weibo.com"; path_spec; domain_dot; discard; version=0
+Set-Cookie3: SUS="SID-3078379144-1440505683-GZ-pwfah-0bad48a3d6d0f23880bace2d5ff80e5a"; path="/"; domain=".weibo.com"; path_spec; domain_dot; discard; httponly=None; version=0
+Set-Cookie3: YF-Ugrow-G0=ad83bc19c1269e709f753b172bddb094; path="/"; domain="weibo.com"; path_spec; discard; version=0
