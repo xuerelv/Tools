@@ -6,6 +6,19 @@ Created on Mar 18, 2013
 
 @author: yoyzhou
 '''
+import os
+import sys
+import urllib
+import urllib2
+import cookielib
+import base64
+import re
+import hashlib
+import json
+import rsa
+import binascii
+
+import logging
 
 try:
     import os

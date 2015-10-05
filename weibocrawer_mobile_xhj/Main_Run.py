@@ -46,7 +46,7 @@ if __name__ == '__main__':
 #     key_words_list = ['滨海','香港','上海']
 #     all_thrads_list.extend(crawl_real_time_main(key_words_list))
     
-    key_word = '中港矛盾'
+    key_word = ""
     start_time = datetime.datetime(2014, 1, 1)
     end_time = datetime.datetime(2015, 1, 1)
     all_thrads_list.extend(crawl_set_time_main(key_word, start_time, end_time))
@@ -55,3 +55,5 @@ if __name__ == '__main__':
         thread.start()
     for thread in all_thrads_list:
         thread.join()    
+
+

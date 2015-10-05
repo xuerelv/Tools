@@ -22,7 +22,7 @@ login:
 
 searchdb:
     dbname: weibo_xhj
-    host: 114.212.191.119
+    host: 127.0.0.1
     port: 27017
 
 proxies:
